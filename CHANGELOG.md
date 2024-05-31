@@ -1,3 +1,24 @@
+## 0.4.1
+* Added `toWrap`
+* Added padding parameter to `scrollable`
+
+## 0.4.0
+* Added key parameter to all widget methods
+* Added `Styled.builder()` method
+
+## 0.3.1+2
+* Text extensions nullable
+
+## 0.3.1+1
+* Animation null-exeption fix
+
+## 0.3.1
+* Added `paddingDirectional`, `positionedDirectional` and `borderRadiusDirectional`
+
+## 0.3.0
+* Null safety
+* Minor fixes
+
 ## 0.2.2
 * Added `offstage` as `Widget` extension method
 * Added `neumorphism` widget as `Widget` extension method

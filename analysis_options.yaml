@@ -1,0 +1,16 @@
+include: package:lint/strict.yaml
+
+linter:
+  rules:
+
+analyzer:
+  strong-mode:
+    implicit-casts: false
+    implicit-dynamic: false
+
+  exclude:
+    - "android/**"
+    - "ios/**"
+    - "build/**"
+    - "vendors/**"
+    - "resources/**"
